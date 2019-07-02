@@ -1,0 +1,1 @@
+{"filter":false,"title":".bash_aliases","tooltip":"~/.bash_aliases","ace":{},"undoManager":{"mark":-1,"position":-1,"stack":[]},"timestamp":1562069606005,"hash":"e03e1d348bd5b245b155e3250d51aa30910f79f6"}
