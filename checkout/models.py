@@ -20,7 +20,7 @@ class Order(models.Model):
 
 
 class OrderLineItem(models.Model):
-    order = models.ForeignKey(Order, null=False)
+    order = models.ForeignKey(Order, null=False) 
     product = models.ForeignKey(Product, null=False)
     quantity = models.IntegerField(blank=False)
 
