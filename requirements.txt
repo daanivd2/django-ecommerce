@@ -1,16 +1,12 @@
 asn1crypto==0.24.0
 astroid==1.6.6
 backports.functools-lru-cache==1.5
-
 configparser==3.7.4
 cryptography==2.1.4
 dj-database-url==0.5.0
 Django==1.11
 enum34==1.1.6
-futures==3.2.0
-
 idna==2.6
-
 Inflector==2.0.12
 ipaddress==1.0.17
 isort==4.3.20
@@ -22,7 +18,6 @@ mccabe==0.6.1
 parso==0.1.1
 pbr==5.2.1
 pycrypto==2.6.1
-
 pylint==1.9.4
 pylint-django==0.8.0
 pylint-flask==0.5
